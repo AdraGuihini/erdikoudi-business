@@ -1,0 +1,13 @@
+{
+  "name": "Erdikoudi Business",
+  "short_name": "Erdikoudi",
+  "description": "Actualités technologiques, solutions numériques, boutique et services au Tchad.",
+  "lang": "fr",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#002B49",
+  "background_color": "#F8FAFC",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
